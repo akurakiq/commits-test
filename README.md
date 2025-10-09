@@ -1,4 +1,4 @@
-# commits-test
+/# commits-test
 This
 aaa
 aaasdasddada
@@ -8,3 +8,4 @@ addadadsafasa
 asdasd
 dasdasdas
 GAazd
+/bnm,/nm,/
